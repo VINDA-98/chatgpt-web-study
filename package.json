@@ -1,8 +1,8 @@
 {
-  "name": "chatgpt-web",
+  "name": "chatgpt-web-study",
   "version": "2.10.8",
   "private": false,
-  "description": "ChatGPT Web",
+  "description": "ChatGPT Web Study",
   "author": "Vinda <weida_work@163.com>",
   "keywords": [
     "chatgpt-web",

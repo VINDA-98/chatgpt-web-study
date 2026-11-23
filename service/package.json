@@ -1,8 +1,8 @@
 {
-  "name": "chatgpt-web-service",
+  "name": "chatgpt-web-study-service",
   "version": "1.0.0",
   "private": false,
-  "description": "ChatGPT Web Service",
+  "description": "ChatGPT Web Study Service",
   "author": "Vinda <weida_work@163.com>",
   "keywords": [
     "chatgpt-web",

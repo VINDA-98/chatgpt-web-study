@@ -13,9 +13,9 @@ A 2023 study copy of [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chat
 | [Chat UI](src/views/chat/) | Vue 3 chat page, message components and the session sidebar |
 | [Frontend state](src/store/) | Pinia state for chat history and interface settings |
 | [Backend](service/src/) | Express routes, middleware and the model request wrapper |
-| [Changes in this copy](https://github.com/VINDA-98/chatgpt-test/compare/76cef65...9891d62) | Comparison with the upstream commit retained in this repository |
+| [Changes in this copy](https://github.com/VINDA-98/chatgpt-web-study/compare/76cef65...9891d62) | Comparison with the upstream commit retained in this repository |
 
-See the [historical documentation](https://github.com/VINDA-98/chatgpt-test/blob/9891d6245cc9f63fd27e320e344ac9240f2b5d9c/README.en.md) for the original environment, build and Docker instructions. Those instructions describe older dependencies and service APIs. Compatibility with current services has yet to be verified.
+See the [historical documentation](https://github.com/VINDA-98/chatgpt-web-study/blob/9891d6245cc9f63fd27e320e344ac9240f2b5d9c/README.en.md) for the original environment, build and Docker instructions. Those instructions describe older dependencies and service APIs. Compatibility with current services has yet to be verified.
 
 ## Credits and license
 
