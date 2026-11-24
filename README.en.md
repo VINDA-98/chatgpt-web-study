@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · English
 
-A 2023 study copy of [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) for exploring how a Vue chat UI stores sessions, renders messages and talks to a separate Node.js service. This copy changes the default avatar, the About panel and frontend and backend package configuration.
+A 2023 study copy of [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web). It follows the flow from a Vue chat session and message rendering to the Node.js service. This copy changes the default avatar, About panel and frontend and backend package configuration.
 
 ![Chat interface screenshot](docs/c1.png)
 

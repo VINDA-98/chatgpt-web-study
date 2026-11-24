@@ -2,7 +2,7 @@
 
 简体中文 · [English](README.en.md)
 
-这是基于 [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) 的 2023 年学习副本，用来了解 Vue 聊天界面怎样保存会话、渲染消息，以及怎样与独立的 Node.js 服务通信。这个仓库主要调整了默认头像、关于页，以及前后端的包配置。
+2023 年基于 [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) 整理的学习副本。代码可用于追踪从 Vue 会话存储、消息渲染到 Node.js 服务的请求链路。这个版本调整了默认头像、关于页和前后端的包配置。
 
 ![聊天界面截图](docs/c1.png)
 
